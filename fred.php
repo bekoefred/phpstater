@@ -48,7 +48,6 @@ $result = $num1 % $num2;
   <div class="text_center">
     <br><br><br><br><br>
   <form method="post">
-
     <input type ="text" name ="num1" placeholder="Enter first number"><br>
     <input type ="text" name ="op" placeholder="Enter operator +,-.x,/,%"><br>
     <input type ="text" name ="num2" placeholder="Enter second number"><br>
